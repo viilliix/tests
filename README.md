@@ -1,2 +1,2 @@
 # tests
-Testa repozitorijs
+skolas majaslapa
